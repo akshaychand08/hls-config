@@ -22,6 +22,130 @@
     {
       "name": "SonyLIV Upcoming",
       "url": "https://raw.githubusercontent.com/sm-monirulislam/SonyLiv_Event_Playlist/main/sonyLiv_data.json"
+    },
+    {
+      "name": "AkashGo",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/akashgo.m3u"
+    },
+    {
+      "name": "AmigoFX",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/amigofx.m3u"
+    },
+    {
+      "name": "Ashoka Digital",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/ashokadigital.m3u"
+    },
+    {
+      "name": "Dish D2H",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/dishd2h.m3u"
+    },
+    {
+      "name": "Distro TV",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/distrotv.m3u"
+    },
+    {
+      "name": "Ekamra OTT",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/ekamraott.m3u"
+    },
+    {
+      "name": "EKTV",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/ektv.m3u"
+    },
+    {
+      "name": "Elekta Media",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/elektamedia.m3u"
+    },
+    {
+      "name": "FastVJP",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/fastvjp.m3u"
+    },
+    {
+      "name": "Jayam OTT",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/jayamott.m3u"
+    },
+    {
+      "name": "Joshua OTT",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/joshuaott.m3u"
+    },
+    {
+      "name": "JTV",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/jtv.m3u"
+    },
+    {
+      "name": "Livebox",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/livebox.m3u"
+    },
+    {
+      "name": "Madurai IPTV",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/maduraiiptv.m3u"
+    },
+    {
+      "name": "Max Digital TV",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/maxdigitaltv.m3u"
+    },
+    {
+      "name": "Nelen",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/nelen.m3u"
+    },
+    {
+      "name": "Nellai IPTV",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/nellaiiptv.m3u"
+    },
+    {
+      "name": "Neo TV",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/neotv.m3u"
+    },
+    {
+      "name": "PiShow",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/pishow.m3u"
+    },
+    {
+      "name": "Ratchagar OTT",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/ratchagarott.m3u"
+    },
+    {
+      "name": "RIPTV",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/riptv.m3u"
+    },
+    {
+      "name": "Roarzone",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/roarzone.m3u"
+    },
+    {
+      "name": "RunnTV",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/runntv.m3u"
+    },
+    {
+      "name": "SLIV",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/sliv.m3u"
+    },
+    {
+      "name": "SmartPlay",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/smartplay.m3u"
+    },
+    {
+      "name": "StreamBridge",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/streambridge.m3u"
+    },
+    {
+      "name": "Tango TV",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/tangotv.m3u"
+    },
+    {
+      "name": "Vinayaga OTT",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/vinayagaott.m3u"
+    },
+    {
+      "name": "VV Solutions",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/vvsolutions.m3u"
+    },
+    {
+      "name": "WebChnl",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/webchnl.m3u"
+    },
+    {
+      "name": "YuppTV Fast",
+      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/yupptvfast.m3u"
     }
   ]
 }
