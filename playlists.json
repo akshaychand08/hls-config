@@ -25,6 +25,10 @@
     },
     {
       "name": "AkashGo",
+      "url": "https://raw.githubusercontent.com/sohag1192/Live-Tv-Server/blob/master/toffee_playlist.m3u"
+    },
+    {
+      "name": "AkashGo",
       "url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/akashgo.m3u"
     },
     {
